@@ -18,10 +18,17 @@ Dataset:
 The ETT-h1 dataset can be downloaded from this link [https://github.com/zhouhaoyi/ETDataset]. It includes the following columns:
 
 date: Timestamp of the recorded data.
+
 HUFL: High-usage frequency load.
+
 HULL: High-usage low load.
+
 MUFL: Medium-usage frequency load.
+
 MULL: Medium-usage low load.
+
 LUFL: Low-usage frequency load.
+
 LULL: Low-usage low load.
+
 OT: Oil temperature (target variable).
