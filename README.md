@@ -32,3 +32,9 @@ LUFL: Low-usage frequency load.
 LULL: Low-usage low load.
 
 OT: Oil temperature (target variable).
+
+
+Loss and Evaluation Metrics:
+Loss Functions: Mean Absolute Error (MAE) / Mean Squared Error (MSE)
+
+Evaluation Metrics: R-Squared (R2), Mean Absolute Error (MAE), Mean Squared Error (MSE)
